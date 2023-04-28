@@ -15,10 +15,12 @@ html {
 main {
     position: relative;
     width: 100vw;
-    height: 75vh;
+    height: 80vh;
 }
 
 h1 {
+    position: relative;
+    top: 50px;
     display: flex;
     justify-content: center; /* centraliza horizontalmente */
     align-items: center;
