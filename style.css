@@ -19,7 +19,8 @@ main {
 }
 
 h1 {
-    margin-bottom: -85px;
+    font-size: 1.5rem;
+    margin-bottom: -95px;
     text-align: center;
 }
 
