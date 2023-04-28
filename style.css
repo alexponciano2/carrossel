@@ -43,6 +43,7 @@ section {
 div#imagem {
     display: block;
     margin: auto;
+    margin-top: 0px;
     background: purple url(images/ana_johnson.jpg);
     background-size: cover;
     background-position: 40%;
