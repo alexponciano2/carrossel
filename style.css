@@ -71,29 +71,20 @@ h3 {
     font-size: 0.8rem;
 }
 
-span#underline {
-    display: inline-block;
-    margin-top: 5px;
-    margin-left: 10px;
-}
-
-a#voltar {
-    display: inline;
-    text-decoration: none;
-    font-size: 1.5rem;
-}
-
-a#seguir {
-    display: inline;
-    margin-left: 20px;
-    text-decoration: none;
-    font-size: 1.5rem;
-}
-
 input#botaoRandom {
     display: block;
     margin: auto;
-    margin-top: 3px;
+    margin-top: 25px;
+    border-radius: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: rgba(255, 255, 255, 0.426);
+    border: 1px solid black;
+}
+
+input#botaoRandom:hover {
+    background-color: rgba(222, 222, 222, 0.426);
+    border-style: dashed;
 }
 
 p {
