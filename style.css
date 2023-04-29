@@ -54,8 +54,8 @@ div#imagem {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 3px;
 }
 
 div#form {
@@ -66,7 +66,7 @@ div#form {
 
 h3 {
     display: block;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
     color: rgb(98, 161, 255);
     font-size: 0.8rem;
 }
@@ -88,4 +88,10 @@ a#seguir {
     margin-left: 20px;
     text-decoration: none;
     font-size: 1.5rem;
+}
+
+input#botaoRandom {
+    display: block;
+    margin: auto;
+    margin-top: 3px;
 }
