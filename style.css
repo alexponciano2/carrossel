@@ -71,14 +71,21 @@ h3 {
     font-size: 0.8rem;
 }
 
-span {
+span#underline {
     display: inline-block;
     margin-top: 5px;
     margin-left: 10px;
 }
 
-span a {
-    display: block;
+a#voltar {
+    display: inline;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+a#seguir {
+    display: inline;
+    margin-left: 20px;
     text-decoration: none;
     font-size: 1.5rem;
 }
